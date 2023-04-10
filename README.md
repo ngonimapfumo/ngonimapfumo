@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I write things!
+# Devs together strong!
 
 <!--
 **ngonimapfumo/ngonimapfumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
